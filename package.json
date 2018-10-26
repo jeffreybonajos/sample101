@@ -1,10 +1,10 @@
 {
-  "name": "react-training",
+  "name": "sample 101",
   "version": "1.0.0",
-  "author": "Jeff Canoy",
+  "author": "Jeff Bonajos",
   "repository": {
     "type": "git",
-    "url": "https://dbsolde@bitbucket.org/dbsolde/react-training.git"
+    "url": "https://github.com/jeffreybonajos/sample101.git"
   },
   "private": true,
   "dependencies": {
